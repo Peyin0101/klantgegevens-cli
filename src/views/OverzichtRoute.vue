@@ -5,10 +5,12 @@
         <p><b>Voornaam</b></p>
       </div>
       <div class="cell">
-        <p><b>Achternaam</b></p>
+        <p><b>Geaardheid</b></p>
+        <!-- <p><b>Achternaam</b></p> -->
       </div>
       <div class="cell">
-        <p><b>Geboortedatum</b></p>
+        <p><b>Wanneer</b></p>
+        <!-- <p><b>Geboortedatum</b></p> -->
       </div>
       <div class="cell">
         <p><b>Acties</b></p>

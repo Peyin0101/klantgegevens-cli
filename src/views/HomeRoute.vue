@@ -2,8 +2,10 @@
   <section id="ingave">
     <h1>Klant gegevens</h1>
     <span>Voornaam</span> <input type="text" v-model="vnaam" /><br />
-    <span>Achternaam</span> <input type="text" v-model="anaam" /><br />
-    <span>Geboortedatum</span>
+    <span>Geaardheid</span> <input type="text" v-model="anaam" /><br />
+    <span>Wanneer</span>
+    <!-- <span>Achternaam</span> <input type="text" v-model="anaam" /><br />
+    <span>Geboortedatum</span> -->
     <input type="text" v-model="geboortedatum" /><br />
     <button v-on:click="voegDataToe" v-bind:style="buttonStyle">
       Voeg toe
